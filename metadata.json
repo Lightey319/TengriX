@@ -1,0 +1,6 @@
+{
+  "name": "tengriX AI Chatbot",
+  "description": "Монгол хэлээр ажиллах, олон хэлний чадвартай, дэвшилтэт tengriX хиймэл оюуны туслах чатбот.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
